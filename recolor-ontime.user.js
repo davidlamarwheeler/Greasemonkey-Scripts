@@ -2,10 +2,10 @@
 // @name          Recolor OnTime
 // @namespace     http://www.davidlamarwheeler.com/
 // @description   Recolors the eye-bleeding awful of OnTime into something a little more reasonable YEAH!
-// @include       http://pm.unitymg.com/projects/*
-// @include       https://pm.unitymg.com/projects/*
+// @include       http://unitymg.ontimenow.com/*
+// @include       https://unitymg.ontimenow.com/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js
-// @version       0.1.2
+// @version       0.1.3
 // ==/UserScript==
 
 (function($) {
